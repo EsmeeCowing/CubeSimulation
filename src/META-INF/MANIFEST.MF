@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: CubeSimulation
+Class-Path: /Users/esmee/Desktop/Computer Science/Java/Projects/CubeSimu
+ lation/src
+
